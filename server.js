@@ -386,7 +386,7 @@ app.post("/change_password", function (request, response) {
 });
 
 // route all other GET requests to files in public
-app.use(express.static(__dirname + "/public"));
+// app.use(express.static(__dirname + "/public"));
 
 // start server
 app.listen(8443, () => console.log(`listening on port 8443`));
