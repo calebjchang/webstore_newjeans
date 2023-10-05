@@ -62,7 +62,7 @@ app.all("*", function (request, response, next) {
 });
 
 // Routing
-app.get("/products.js", function (request, response, next) {
+app.get("products.js", function (request, response, next) {
   response.type(".js");
   var products_str = `var products = ${JSON.stringify(products)};`;
   response.send(products_str);
