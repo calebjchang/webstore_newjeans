@@ -12,7 +12,7 @@ const qs = require("querystring");
 const { query } = require("express");
 const { response } = require("express");
 const { URLSearchParam } = require("url");
-var products = require(__dirname + "products.json");
+var products = require(__dirname + "/products.json");
 
 // A2IR1 crypt librarys; ChatGPT was used to build my understanding of the crypto library and the crypt() function, as well as the foundation for all encryption code used in the login, register, and update pages.
 const crypto = require("crypto");
