@@ -2,14 +2,14 @@
     text-align: center;
     color: aliceblue;
     text-shadow: 2px 2px 2px rgba(46,91,173,0.6);
-    cursor: url('Images/cursors/text.cur'), auto;
+    cursor: 'Images/cursors/text.cur', auto;
 }
 html {
     font-family: 'AppleSDGothicNeo', 'Noto Sans KR', sans-serif;  
     font-weight: bold;
 }
 p {
-    cursor: url('Images/cursors/text.cur'), auto;
+    cursor: 'Images/cursors/text.cur', auto;
 }
 #myVideo {
     position: absolute;
@@ -79,11 +79,11 @@ label {
   }
 /*CURSORCSS*/
 a {
-    cursor: url('Images/cursors/link.cur'), auto;
+    cursor: 'Images/cursors/link.cur', auto;
 }
 html {
     z-index: 1;
-    cursor: url('Images/cursors/normal.cur'), auto;
+    cursor: 'Images/cursors/normal.cur', auto;
 }
 input {
     cursor: url('Images/cursors/text.cur'), auto;
