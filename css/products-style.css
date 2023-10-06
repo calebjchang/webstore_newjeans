@@ -32,7 +32,7 @@ h2 {
     color: white;
     font-size: large;
     text-shadow: 2px 2px 2px rgba(46,91,173,0.6);
-    cursor: url('/Images/cursors/text.cur'), auto;
+    cursor: url('Images/cursors/text.cur'), auto;
     
 }
 h3 {
@@ -40,7 +40,7 @@ h3 {
     color: aliceblue;
     font-size: medium;
     text-shadow: 2px 2px 2px rgba(46,91,173,0.6);
-    cursor: url('/Images/cursors/text.cur'), auto;
+    cursor: url('Images/cursors/text.cur'), auto;
 }
 p {
     text-align: center;
@@ -92,19 +92,19 @@ footer {
   }
   /*CURSOR CSS*/
 p {
-    cursor: url('/Images/cursors/text.cur'), auto;
+    cursor: url('Images/cursors/text.cur'), auto;
     text-shadow: 1px 1px 1px aliceblue;
 }
 a {
-    cursor: url('/Images/cursors/link.cur'), auto;
+    cursor: url('Images/cursors/link.cur'), auto;
 }
 html {
     z-index: 1;
-    cursor: url('/Images/cursors/normal.cur'), auto;
+    cursor: url('Images/cursors/normal.cur'), auto;
 }
 input {
-    cursor: url('/Images/cursors/text.cur'), auto;
+    cursor: url('Images/cursors/text.cur'), auto;
 }
 #purchase_button {
-    cursor: url('/Images/cursors/link.cur'), auto;
+    cursor: url('Images/cursors/link.cur'), auto;
 }

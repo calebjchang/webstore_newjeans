@@ -1,5 +1,5 @@
 html {
-    cursor: url('/Images/cursors/normal.cur'), auto;
+    cursor: url('Images/cursors/normal.cur'), auto;
 }
 body {
     text-align: center;
@@ -18,11 +18,11 @@ h1 {
 #icon {
     width: 32px;
     height: 24px;
-    cursor: url('/Images/cursors/link.cur'), auto;
+    cursor: url('Images/cursors/link.cur'), auto;
     padding: 10px;
 }
 iframe {
-    cursor: url('/Images/cursors/normal.cur'), auto;
+    cursor: url('Images/cursors/normal.cur'), auto;
 }
 #myVideo {
     position: absolute;
@@ -33,7 +33,7 @@ iframe {
     z-index: -1;
   }
 a {
-    cursor: url('/Images/cursors/link.cur'), auto;
+    cursor: url('Images/cursors/link.cur'), auto;
 }
 /* Add a hover effect (blue shadow) */
 #bunny:hover {
@@ -48,14 +48,14 @@ a {
     /* Some padding */
     width: 150px;
     /* Set a small width */
-    cursor: url('/Images/cursors/link.cur'), auto;
+    cursor: url('Images/cursors/link.cur'), auto;
 }
 iframe {
-    cursor: url('/Images/cursors/normal.cur'), auto;
+    cursor: url('Images/cursors/normal.cur'), auto;
 }
 #ditto_vid {
     box-shadow: 2px 2px 2px rgba(46,91,173,0.6);
-    cursor: url('/Images/cursors/normal.cur'), auto;
+    cursor: url('Images/cursors/normal.cur'), auto;
 }
 .class {
     color: rgba(0, 0, 0, 0.5);
