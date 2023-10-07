@@ -79,7 +79,7 @@ label {
   }
 /*CURSORCSS*/
 a {
-    cursor: 'Images/cursors/link.cur', auto;
+    cursor: url('Images/cursors/link.cur'), auto;
 }
 html {
     z-index: 1;
